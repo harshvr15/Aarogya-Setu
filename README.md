@@ -1,1 +1,2 @@
 # Aarogya-Setu
+Under the Central Government of India, a contact tracing application was developed by the NIC to track the spread of COVID19 cases across the country. However, there were many controversies related to the implementation of this application and the data policies from the civil rights advocates, activists, hackers society, and even the political enthusiast. This ground research will give a brief overview of the voids regarding the ethical, governance, data privacy and legal issues during every release of this application.
